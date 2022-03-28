@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_binarycode.jpg
 uid: 3931b4ea-2c64-4409-aa70-33c4da352cdd
