@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section gives citations for the reading materials that will be more
+  useful for better understanding of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a53401d6-9b40-6c09-ec11-2f0e512de121
 ---
