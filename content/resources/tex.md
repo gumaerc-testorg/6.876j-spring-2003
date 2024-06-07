@@ -3,6 +3,7 @@ content_type: resource
 description: 'Study handout covering the following topics: debugging, .dvi, and one
   final hint.'
 file: /courses/6-876j-advanced-topics-in-cryptography-spring-2003/2d6715bfacf1dab8b4833eacba719f06_tex.pdf
+file_size: 101234
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
