@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Binary code. (Image courtesy of National Science Foundation.)
-file: /ol-ocw-studio-app/courses/6-876j-advanced-topics-in-cryptography-spring-2003/3931b4ea2c644409aa7033c4da352cdd_chp_binarycode.jpg
+file: /courses/6-876j-advanced-topics-in-cryptography-spring-2003/3931b4ea2c644409aa7033c4da352cdd_chp_binarycode.jpg
 file_size: 63560
 file_type: image/jpeg
 image_metadata:
