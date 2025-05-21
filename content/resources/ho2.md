@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supplementary handout covering the following topics: notation, protocols,
   and security parameters.'
-file: /ol-ocw-studio-app/courses/6-876j-advanced-topics-in-cryptography-spring-2003/0d81bd0e858e3ec2676d96f4ee6634eb_ho2.pdf
+file: /courses/6-876j-advanced-topics-in-cryptography-spring-2003/0d81bd0e858e3ec2676d96f4ee6634eb_ho2.pdf
 file_size: 122304
 file_type: application/pdf
 learning_resource_types: []
